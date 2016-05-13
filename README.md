@@ -1,3 +1,3 @@
-# tenarms.github.io
+tenarms.github.io
 
 Test build
